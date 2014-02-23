@@ -1,0 +1,317 @@
+2013-11-01 08:48:24,697    ERROR [       config.py:  18] [Errno 2] No such file or directory: 'D:\\sw\\trunk\\QSoftKeyer\\options\\windowsoptions.json'
+Traceback (most recent call last):
+  File "D:\sw\trunk\QSoftKeyer\config.py", line 14, in <module>
+    with open(os.sep.join([os.getcwd(), 'options', 'windowsoptions.json']), 'r') as f:
+IOError: [Errno 2] No such file or directory: 'D:\\sw\\trunk\\QSoftKeyer\\options\\windowsoptions.json'
+2013-11-01 08:48:24,698     INFO [       config.py:  19] Load windowsoptions from local
+2013-11-01 08:48:26,881     INFO [         user.py:  33] no such column: admin
+2013-11-01 09:05:42,614     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:05:42,773     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:05:42,775     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:05:42,803     INFO [         user.py:  33] table users already exists
+2013-11-01 09:05:54,594     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:05:54,749     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:05:54,750     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:05:54,778     INFO [         user.py:  33] table users already exists
+2013-11-01 09:06:19,713     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:06:19,872     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:06:19,874     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:06:19,903     INFO [         user.py:  33] table users already exists
+2013-11-01 09:13:30,835     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:13:31,000     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:13:31,000     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:13:31,035     INFO [         user.py:  33] table users already exists
+2013-11-01 09:13:43,253     INFO [      dbutils.py: 161] unrecognized token: ":"
+2013-11-01 09:14:13,016     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:14:13,184     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:14:13,186     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:14:13,217     INFO [         user.py:  33] table users already exists
+2013-11-01 09:14:24,635     INFO [      dbutils.py: 161] unrecognized token: ":"
+2013-11-01 09:14:40,503     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:14:40,667     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:14:40,668     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:14:40,697     INFO [         user.py:  33] table users already exists
+2013-11-01 09:14:51,404     INFO [      dbutils.py: 161] unrecognized token: ":"
+2013-11-01 09:15:31,282     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:15:31,443     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:15:31,444     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:15:31,477     INFO [         user.py:  33] table users already exists
+2013-11-01 09:15:56,194     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:15:56,354     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:15:56,355     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:15:56,382     INFO [         user.py:  33] table users already exists
+2013-11-01 09:16:07,108     INFO [      dbutils.py: 121] unrecognized token: ":"
+2013-11-01 09:23:08,703     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:23:08,871     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:23:08,872     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:23:08,901     INFO [         user.py:  33] table users already exists
+2013-11-01 09:23:54,898     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:23:55,066     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:23:55,069     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:23:55,104     INFO [         user.py:  33] table users already exists
+2013-11-01 09:24:06,157     INFO [      dbutils.py: 162] unrecognized token: ":"
+2013-11-01 09:24:37,693     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:24:37,858     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:24:37,859     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:24:37,888     INFO [         user.py:  33] table users already exists
+2013-11-01 09:24:49,529     INFO [      dbutils.py: 163] unrecognized token: ":"
+2013-11-01 09:26:01,585     INFO [      dbutils.py: 163] unrecognized token: ":"
+2013-11-01 09:56:24,538     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 09:56:24,703     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 09:56:24,704     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 09:56:24,737     INFO [         user.py:  33] table users already exists
+2013-11-01 10:09:27,135     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:09:27,299     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:09:27,301     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:09:27,336     INFO [         user.py:  33] table users already exists
+2013-11-01 10:10:01,444     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:10:01,605     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:10:01,608     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:10:01,640     INFO [         user.py:  33] table users already exists
+2013-11-01 10:12:42,345     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:12:42,506     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:12:42,506     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:12:42,540     INFO [         user.py:  33] table users already exists
+2013-11-01 10:15:21,799     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:15:21,960     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:15:21,960     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:15:21,993     INFO [         user.py:  33] table users already exists
+2013-11-01 10:21:58,168     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:21:58,332     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:21:58,332     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:21:58,367     INFO [         user.py:  33] table users already exists
+2013-11-01 10:24:09,993     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:24:10,151     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:24:10,154     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:24:10,187     INFO [         user.py:  33] table users already exists
+2013-11-01 10:26:03,509     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:26:03,674     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:26:03,677     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:26:03,710     INFO [         user.py:  33] table users already exists
+2013-11-01 10:27:45,377     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:27:45,523     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:27:45,525     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:27:45,559     INFO [         user.py:  33] table users already exists
+2013-11-01 10:31:39,111     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:31:39,275     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:31:39,276     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:31:39,306     INFO [         user.py:  33] table users already exists
+2013-11-01 10:37:55,323     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:37:55,467     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:37:55,470     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:37:55,503     INFO [         user.py:  33] table users already exists
+2013-11-01 10:39:17,309     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:39:17,470     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:39:17,471     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:39:17,502     INFO [         user.py:  33] table users already exists
+2013-11-01 10:39:36,446     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:39:36,608     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:39:36,608     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:39:36,638     INFO [         user.py:  33] table users already exists
+2013-11-01 10:40:01,111     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:40:01,272     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:40:01,273     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:40:01,302     INFO [         user.py:  33] table users already exists
+2013-11-01 10:48:03,776     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:48:03,940     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:48:03,941     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:48:03,976     INFO [         user.py:  33] table users already exists
+2013-11-01 10:49:37,137     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:49:37,299     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:49:37,299     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:49:37,335     INFO [         user.py:  33] table users already exists
+2013-11-01 10:50:42,553     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:50:42,716     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:50:42,717     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:50:42,752     INFO [         user.py:  33] table users already exists
+2013-11-01 10:55:49,966     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:55:50,128     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:55:50,130     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:55:50,164     INFO [         user.py:  33] table users already exists
+2013-11-01 10:57:29,624     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:57:29,793     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:57:29,796     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:57:29,831     INFO [         user.py:  33] table users already exists
+2013-11-01 10:57:59,022     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:57:59,183     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:57:59,184     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:57:59,220     INFO [         user.py:  33] table users already exists
+2013-11-01 10:58:45,875     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 10:58:46,036     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 10:58:46,039     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 10:58:46,072     INFO [         user.py:  33] table users already exists
+2013-11-01 11:03:38,651     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:03:38,813     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:03:38,815     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:03:38,867     INFO [         user.py:  33] table users already exists
+2013-11-01 11:06:05,322     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:06:05,484     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:06:05,486     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:06:05,520     INFO [         user.py:  33] table users already exists
+2013-11-01 11:06:17,979     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:06:18,141     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:06:18,144     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:06:18,177     INFO [         user.py:  33] table users already exists
+2013-11-01 11:07:20,687     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:07:20,855     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:07:20,857     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:07:20,891     INFO [         user.py:  33] table users already exists
+2013-11-01 11:10:46,563     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:10:46,726     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:10:46,726     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:10:46,762     INFO [         user.py:  33] table users already exists
+2013-11-01 11:11:27,674     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:11:27,835     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:11:27,838     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:11:27,871     INFO [         user.py:  33] table users already exists
+2013-11-01 11:12:23,776     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:12:23,937     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:12:23,937     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:12:23,973     INFO [         user.py:  33] table users already exists
+2013-11-01 11:13:04,351     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:13:04,513     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:13:04,515     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:13:04,543     INFO [         user.py:  33] table users already exists
+2013-11-01 11:15:06,762     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:15:06,921     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:15:06,924     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:15:06,957     INFO [         user.py:  33] table users already exists
+2013-11-01 11:16:09,938     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:16:10,099     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:16:10,101     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:16:10,135     INFO [         user.py:  33] table users already exists
+2013-11-01 11:17:17,776     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:17:17,937     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:17:17,938     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:17:17,973     INFO [         user.py:  33] table users already exists
+2013-11-01 11:30:10,696     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:30:10,857     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:30:10,858     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:30:10,892     INFO [         user.py:  33] table users already exists
+2013-11-01 11:40:24,816     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:40:24,986     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:40:24,987     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:40:25,023     INFO [         user.py:  33] table users already exists
+2013-11-01 11:44:01,730     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:44:01,885     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:44:01,888     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:44:01,921     INFO [         user.py:  33] table users already exists
+2013-11-01 11:47:57,927     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:47:58,098     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:47:58,099     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:47:58,132     INFO [         user.py:  33] table users already exists
+2013-11-01 11:49:31,822     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:49:31,979     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:49:31,980     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:49:32,015     INFO [         user.py:  33] table users already exists
+2013-11-01 11:51:33,275     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:51:33,437     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:51:33,437     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:51:33,473     INFO [         user.py:  33] table users already exists
+2013-11-01 11:52:16,963     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:52:17,125     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:52:17,127     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:52:17,161     INFO [         user.py:  33] table users already exists
+2013-11-01 11:53:41,688     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:53:41,849     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:53:41,851     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:53:41,884     INFO [         user.py:  33] table users already exists
+2013-11-01 11:54:24,970     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 11:54:25,135     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 11:54:25,138     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 11:54:25,174     INFO [         user.py:  33] table users already exists
+2013-11-01 13:17:21,407     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:17:21,575     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:17:21,578     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:17:21,628     INFO [         user.py:  33] table users already exists
+2013-11-01 13:19:44,732     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:19:44,898     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:19:44,900     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:19:44,934     INFO [         user.py:  33] table users already exists
+2013-11-01 13:20:17,558     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:20:17,720     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:20:17,721     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:20:17,756     INFO [         user.py:  33] table users already exists
+2013-11-01 13:21:10,543     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:21:10,707     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:21:10,709     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:21:10,736     INFO [         user.py:  33] table users already exists
+2013-11-01 13:22:28,361     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:22:28,523     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:22:28,526     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:22:28,563     INFO [         user.py:  33] table users already exists
+2013-11-01 13:22:47,996     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:22:48,157     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:22:48,157     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:22:48,187     INFO [         user.py:  33] table users already exists
+2013-11-01 13:24:53,930     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:24:54,092     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:24:54,094     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:24:54,128     INFO [         user.py:  33] table users already exists
+2013-11-01 13:27:09,759     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:27:09,920     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:27:09,921     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:27:09,954     INFO [         user.py:  33] table users already exists
+2013-11-01 13:34:31,868     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:34:32,029     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:34:32,030     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:34:32,066     INFO [         user.py:  33] table users already exists
+2013-11-01 13:35:48,676     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:35:48,838     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:35:48,838     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:35:48,874     INFO [         user.py:  33] table users already exists
+2013-11-01 13:36:32,170     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:36:32,335     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:36:32,336     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:36:32,372     INFO [         user.py:  33] table users already exists
+2013-11-01 13:37:39,471     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:37:39,664     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:37:39,665     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:37:39,703     INFO [         user.py:  33] table users already exists
+2013-11-01 13:37:59,650     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:37:59,811     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:37:59,812     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:37:59,842     INFO [         user.py:  33] table users already exists
+2013-11-01 13:38:20,704     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-01 13:38:20,867     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-01 13:38:20,868     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-01 13:38:20,897     INFO [         user.py:  33] table users already exists
+2013-11-20 17:21:43,838     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-20 17:21:44,233     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-20 17:21:44,237     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-20 17:21:44,681     INFO [         user.py:  33] table users already exists
+2013-11-20 17:21:51,984     INFO [tcpListenServer.py: 253] break count: 0
+2013-11-20 17:21:51,986  WARNING [tcpListenServer.py:  83] 192.168.100.100 is connected!
+2013-11-20 17:21:51,989    ERROR [tcpListenServer.py:  93] unknown packet type 0x22
+Traceback (most recent call last):
+  File "D:\sw\trunk\QSoftKeyer\app\tcpListenServer.py", line 91, in handle
+    self.handlepacket()
+  File "D:\sw\trunk\QSoftKeyer\app\tcpListenServer.py", line 150, in handlepacket
+    raise e
+ErrorUnknownType: unknown packet type 0x22
+2013-11-20 17:21:52,006     INFO [tcpListenServer.py: 154] tcp finish begin
+2013-11-20 17:21:52,006     INFO [tcpListenServer.py: 156] <Queue.Queue instance at 0x02E48A80>
+2013-11-20 17:21:52,007     INFO [tcpListenServer.py: 157] 0
+2013-11-20 17:21:55,563     INFO [tcpListenServer.py: 253] break count: 1
+2013-11-20 17:21:55,565  WARNING [tcpListenServer.py:  83] 192.168.100.100 is connected!
+2013-11-20 17:21:55,572     INFO [tcpListenServer.py: 166] tcp finish end
+2013-11-20 17:21:58,697    ERROR [tcpListenServer.py:  93] unknown packet type 0x22
+Traceback (most recent call last):
+  File "D:\sw\trunk\QSoftKeyer\app\tcpListenServer.py", line 91, in handle
+    self.handlepacket()
+  File "D:\sw\trunk\QSoftKeyer\app\tcpListenServer.py", line 150, in handlepacket
+    raise e
+ErrorUnknownType: unknown packet type 0x22
+2013-11-20 17:21:58,697     INFO [tcpListenServer.py: 154] tcp finish begin
+2013-11-20 17:21:58,697     INFO [tcpListenServer.py: 156] <Queue.Queue instance at 0x02E48A80>
+2013-11-20 17:21:58,698     INFO [tcpListenServer.py: 157] 0
+2013-11-20 17:22:03,698     INFO [tcpListenServer.py: 160] long break!
+2013-11-20 17:22:04,161     INFO [tcpListenServer.py: 166] tcp finish end
+2013-11-27 13:35:20,194     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-27 13:35:20,769     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-27 13:35:20,773     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-27 13:35:21,091     INFO [         user.py:  33] table users already exists
+2013-11-27 13:36:30,548     INFO [       config.py:  16] Load windowsoptions from file
+2013-11-27 13:36:30,690     INFO [      alarmdb.py:  40] table alarmrecords already exists
+2013-11-27 13:36:30,693     INFO [ userrecorddb.py:  34] table userrecords already exists
+2013-11-27 13:36:30,721     INFO [         user.py:  33] table users already exists

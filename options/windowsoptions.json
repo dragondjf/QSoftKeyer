@@ -1,0 +1,176 @@
+{
+ "confirmdialog": {
+  "logo_title": "", 
+  "title": "\u6d88\u606f\u63d0\u793a", 
+  "minsize": [
+   400, 
+   300
+  ], 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "logo_img_url": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png", 
+  "size": [
+   400, 
+   300
+  ]
+ }, 
+ "splashimg": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\splash.png", 
+ "monitorpage": {
+  "backgroundimg": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png"
+ }, 
+ "status_islog": false, 
+ "exitdialog": {
+  "logo_title": "", 
+  "title": "\u767b\u9646", 
+  "minsize": [
+   400, 
+   300
+  ], 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "logo_img_url": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png", 
+  "size": [
+   400, 
+   300
+  ]
+ }, 
+ "maxpanum": 128, 
+ "msgdialog": {
+  "logo_title": "", 
+  "title": "\u6d88\u606f\u63d0\u793a", 
+  "minsize": [
+   400, 
+   300
+  ], 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "logo_img_url": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png", 
+  "size": [
+   400, 
+   300
+  ]
+ }, 
+ "adddcdialog": {
+  "logo_title": "", 
+  "title": "\u589e\u52a0\u91c7\u96c6\u5668", 
+  "minsize": [
+   400, 
+   300
+  ], 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "logo_img_url": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png", 
+  "size": [
+   400, 
+   300
+  ]
+ }, 
+ "numinputdialog": {
+  "logo_title": "", 
+  "title": "\u8f93\u5165\u6574\u6570", 
+  "minsize": [
+   400, 
+   300
+  ], 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "logo_img_url": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png", 
+  "size": [
+   400, 
+   300
+  ]
+ }, 
+ "panum": 6, 
+ "ipaddressdialog": {
+  "logo_title": "", 
+  "title": "\u8f93\u5165\u8bbf\u95ee\u7684url", 
+  "minsize": [
+   400, 
+   300
+  ], 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "logo_img_url": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png", 
+  "size": [
+   400, 
+   300
+  ]
+ }, 
+ "login_window": {
+  "logo_title": "", 
+  "title": "\u767b\u9646", 
+  "minsize": [
+   400, 
+   300
+  ], 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "logo_img_url": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png", 
+  "size": [
+   400, 
+   300
+  ]
+ }, 
+ "mainwindow": {
+  "title": "", 
+  "statusbar": {
+   "initmessage": "Ready", 
+   "minimumHeight": 30, 
+   "visual": false
+  }, 
+  "postion": [
+   300, 
+   300
+  ], 
+  "minsize": [
+   800, 
+   600
+  ], 
+  "navigation_show": true, 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "fullscreenflag": true, 
+  "centralwindow": {
+   "page_tag_zh": {
+    "About": "\u5173\u4e8e(About)", 
+    "Login": "login", 
+    "Monitor": "\u76d1\u63a7\u7ba1\u7406(Monitor)", 
+    "Alarm": "\u544a\u8b66\u7ba1\u7406(Alarm)", 
+    "User": "\u7528\u6237\u64cd\u4f5c\u7ba1\u7406(User)"
+   }, 
+   "page_tag": [
+    [
+     "Monitor", 
+     "Alarm", 
+     "User", 
+     "About", 
+     "Login"
+    ]
+   ]
+  }, 
+  "size": [
+   800, 
+   600
+  ]
+ }, 
+ "urldialog": {
+  "logo_title": "", 
+  "title": "\u8f93\u5165\u8bbf\u95ee\u7684url", 
+  "minsize": [
+   400, 
+   300
+  ], 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "logo_img_url": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png", 
+  "size": [
+   400, 
+   300
+  ]
+ }, 
+ "webseverlogin_window": {
+  "logo_title": "\u52a0\u8f7d\u6765\u81eaWebService\u7684\u9632\u533a", 
+  "title": "WebService\u767b\u9646", 
+  "minsize": [
+   400, 
+   300
+  ], 
+  "windowicon": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\logo3.png", 
+  "logo_img_url": "D:\\sw\\trunk\\QSoftKeyer\\skin\\images\\ov-orange-green.png", 
+  "size": [
+   400, 
+   300
+  ]
+ }
+}
